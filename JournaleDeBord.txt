@@ -1,0 +1,74 @@
+INFORMATION MYSQL:
+
+Informations BDD
+Serveur supportant les bases : obiwan.univ-brest.fr
+Noms de vos bases : zal3-zkowalsem_1 et zal3-zkowalsem_2 (MariaDB version : 10.5.12-MariaDB-0+deb11u1)
+Propriétaire (user) de ces bases : zkowalsem
+Mot de passe pour ce user : 4yz88mx2
+
+Liens Utiles:
+
+https://obiwan.univ-brest.fr/adminbdd/index.php
+
+https://obiwan.univ-brest.fr/difal3/zkowalsem/gabarit/index.php
+
+https://obiwan.univ-brest.fr/difal3/zkowalsem/dev/CodeIgniter/
+
+https://obiwan.univ-brest.fr/difal3/zkowalsem/dev/CodeIgniter/index.php/accueil/afficher/
+
+https://obiwan.univ-brest.fr/difal3/zkowalsem/dev/CodeIgniter/index.php/match/afficher
+
+
+Comptes pour test : 
+
+responsable : resp22_ZUIQ
+aniol: admin22!__opxe
+kocik : Siema38$jazem
+patocka : 17081998amgprep
+jpierre : 15081997alpinaprep
+ekowalsk : siemamordeczki
+ 
+
+Exemple de code match: 0b9d6fd7
+
+
+Semaine 14/11:
+
+- Ajouter URL de la V1 dans le wiki
+
+- Tuto interroger la BD avec CI 
+
+-#1 Affichage des actus sur la page d'accueil sur un tableau bootstrap
+
+-> #2 debut de #2 : -> code match dans l'URL -> 1 resultat de la requete en vrac -> aide dans la FAQ
+
+-> code match dans l'url 2: traitement du resulat -> cf faq 10 
+
+- Rappel sur les char sur une query : '".$codematch."';
+
+-Tuto inserer des données dans la BDD avec CI 
+
+puis -> suite de la user story  #2
+
+
+Semaine du 21.11:
+
+-Travail sur le pont: Avancement avec passage du code du match en hidden.
+-Travail sur l'affichage d'un quiz 
+
+
+A faire:
+
+Creation menu administrateur + connexion.
+
+Semaine du 05.12.2022:
+
+-CD des matchs + RAZ
+-Réalisation des matchs
+
+
+
+responsable resp22_ZUIQ
+kocik test
+
+
